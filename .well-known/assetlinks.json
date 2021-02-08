@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "appnexus.com.nativerendererandroid",
+    "sha256_cert_fingerprints":
+    ["2C:48:94:A3:5C:04:63:B9:EB:2D:0A:C9:A1:DA:11:CE:10:47:BD:12:42:F5:A7:CB:49:90:3F:83:D3:8D:7A:59"]
+  }
+}]
